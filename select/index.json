@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ダダダダ天使 / ナナヲアカリ",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2025-12-12T09:10:49.901390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダダダダ天使",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/01_ダダダダ天使_ナナヲアカリ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダダダダ天使",
+      "artist": "Nanawoakari",
+      "has_synced": true,
+      "path": "select/02_ダダダダ天使_Nanawoakari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダダダダ天使",
+      "artist": "Nanawo, Akari",
+      "has_synced": true,
+      "path": "select/03_ダダダダ天使_Nanawo,_Akari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダダダダ天使",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/04_ダダダダ天使_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダダダダ天使",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/05_ダダダダ天使_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダダダダ天使 / ナナヲアカリ",
+      "artist": "Nanawoakari",
+      "has_synced": true,
+      "path": "select/06_ダダダダ天使___ナナヲアカリ_Nanawoakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダダダダ天使",
+      "artist": "YuNi",
+      "has_synced": true,
+      "path": "select/07_ダダダダ天使_YuNi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダダダダ天使(Live)@渋谷WWW 2018.3.5",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/08_ダダダダ天使(Live)@渋谷WWW_2018.3.5_ナナヲアカリ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダダダダ天使(Live)@渋谷WWW 2018.3.5",
+      "artist": "Nanawo, Akari",
+      "has_synced": false,
+      "path": "select/09_ダダダダ天使(Live)@渋谷WWW_2018.3.5_Nanawo,_Akari.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダダダダ天使 (Live at sibuya WWW 2018.3.5)",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/10_ダダダダ天使_(Live_at_sibuya_WWW_2018.3.5)_ナナヲアカリ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダダダダ天使",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_ダダダダ天使_ナナヲアカリ.txt"
+    }
+  ]
+}
